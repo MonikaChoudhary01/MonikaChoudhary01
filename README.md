@@ -12,6 +12,7 @@
 - Representation & Data Visualization: Translating complex datasets into meaningful ,insightful, interactive visualizations with Matplotlib, Seaborn, Plotly, and dashboards using Tableau and Power BI.
 - Building applications & decision models: Developing predictive models, working with automating processes using algorithms like decision trees, SVMs, and ML techniques.
 - Statistical Analysis: Utilizing statistical methods for exploratory analysis, hypothesis testing, and creating predictive models.
+- MLOps: Building and automating end-to-end machine learning pipelines, model versioning, and deployment.
 
 ### 🛠 Skills 
 * Programming languages: Python, SQL
@@ -19,6 +20,8 @@
 * Data Visualization: Tableau, Power BI, Plotly , seaborn
 * Database Management Systems: Oracle , PostgreSQL , Microsoft SQL server
 * Cloud Services: Azure PostgreSQL Database, Elastic Beanstalk.
+* MLOps Tools: Docker, Kubernetes, CI/CD pipelines, MLflow, Airflow, Kubeflow
+* Data Engineering: DBT (Data Build Tool),  ETL pipelines
 * Other: Git, Docker, Jupyter Notebooks.
   
 ### 👨‍💻 Experience 
@@ -41,9 +44,17 @@ Built a machine learning model using historical data to forecast Price for a Sto
 - [Loan Approval Prediction :](https://github.com/MonikaChoudhary01/Loan_approval_prediction)<br />
   Create an ML model to predict the approval or Rejection or the Load application based on the various condition like age , occupation , loan amount, Income of the applicant etc.
 - Power BI Projects:
-  - [UPI_TRANSACTION](https://www.linkedin.com/feed/update/urn:li:activity:7242047849805316096?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7242047849805316096%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B3HL1IXGqTcqdnUmfGNPTRQ%3D%3D)
-  - [Super Store Sales DashBoard](https://github.com/MonikaChoudhary01/Power-BI/blob/main/SuperStore.pbix)
-  - [MUSIC_STORE_ANALYSIS](https://www.linkedin.com/feed/update/urn:li:activity:7224744164356153344?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7224744164356153344%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B3HL1IXGqTcqdnUmfGNPTRQ%3D%3D)
+  - [UPI_TRANSACTION](https://www.linkedin.com/feed/update/urn:li:activity:7242047849805316096?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7242047849805316096%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B3HL1IXGqTcqdnUmfGNPTRQ%3D%3D)<br />
+     Visulaize the UPI Transaction trends accross all location of INDIA wrt different banks
+  - [Super Store Sales DashBoard](https://github.com/MonikaChoudhary01/Power-BI/blob/main/SuperStore.pbix)<br />
+     Develope Power BI DashBoard to show case the sales for different parameters
+  - [MUSIC_STORE_ANALYSIS](https://www.linkedin.com/feed/update/urn:li:activity:7224744164356153344?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7224744164356153344%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B3HL1IXGqTcqdnUmfGNPTRQ%3D%3D)<br />
+      Developed an interactive dashboard using Power BI to visualize and analyze market trends, comparing key Sales metrics across locations and genre.
+  - MLOps Pipeline for Predictive Modeling
+Designed and implemented an end-to-end MLOps pipeline for a predictive modeling project. Used Docker and MLflow to automate model training, versioning, and deployment.
+
+  - Data Transformation with DBT for Analytics
+Developed scalable data models using DBT (Data Build Tool) to transform raw data into structured, analysis-ready datasets. Deployed the models in a production environment for analytics and reporting.
 
 ### 👨‍🎓 Certifications 
 
