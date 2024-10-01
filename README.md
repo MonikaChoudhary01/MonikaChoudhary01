@@ -20,8 +20,8 @@
 * Data Visualization: Tableau, Power BI, Plotly , seaborn
 * Database Management Systems: Oracle , PostgreSQL , Microsoft SQL server
 * Cloud Services: Azure PostgreSQL Database, Elastic Beanstalk.
-* MLOps Tools: Docker, CI/CD pipelines, MLflow
-* Data Engineering: DBT (Data Build Tool),  ETL pipelines
+* Version Control & Collaboration: Git, GitHub
+* Data Engineering | MLOps : DBT (Data Build Tool), ETL pipelines , Docker , CI/CD pipelines, MLflow , Apache Spark
 * Other: Git, Docker, Jupyter Notebooks.
   
 ### 👨‍💻 Experience 
