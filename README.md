@@ -32,13 +32,17 @@
 
 ### 🧑‍🔧 Projects 
 
-- :
- Built a machine learning model using historical data to forecast sales for a retail company. Applied regression techniques and fine-tuned the model for accuracy using hyperparameter tuning.
-- Zomato Delivery time estimation:
+- [Stone Price Prediction](https://github.com/MonikaChoudhary01/Stone_Price_Prediction)
+ Built a machine learning model using historical data to forecast Price for a Stone. Applied ML techniques and fine-tuned the model for accuracy using hyperparameter tuning.
+- Zomato Delivery time estimation:](https://github.com/MonikaChoudhary01/Zomato_delivery_time_estimation)
   developed a machine learning model that estimates the delivery time for food orders based on various factors such as order timing, distance, festival season , type of city and traffic condition. The goal was to improve the accuracy and reliability of delivery time estimates.
+- [Car Price Prediction :](https://github.com/MonikaChoudhary01/Car_price_prediction/tree/main/notebooks)
+  Build a model to Forcast the Car Price from the historical data 
+- [Loan Approval Prediction :](https://github.com/MonikaChoudhary01/Loan_approval_prediction)
 - Power BI Projects:
-  - upi
-  - Super Store Sales DashBoard
+  - [UPI_TRANSACTION](https://www.linkedin.com/feed/update/urn:li:activity:7242047849805316096?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7242047849805316096%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B3HL1IXGqTcqdnUmfGNPTRQ%3D%3D)
+  - [Super Store Sales DashBoard](https://github.com/MonikaChoudhary01/Power-BI/blob/main/SuperStore.pbix)
+  - [MUSIC_STORE_ANALYSIS](https://www.linkedin.com/feed/update/urn:li:activity:7224744164356153344?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7224744164356153344%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B3HL1IXGqTcqdnUmfGNPTRQ%3D%3D)
 
 ### 👨‍🎓 Certifications 
 
