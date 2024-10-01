@@ -20,7 +20,7 @@
 * Data Visualization: Tableau, Power BI, Plotly , seaborn
 * Database Management Systems: Oracle , PostgreSQL , Microsoft SQL server
 * Cloud Services: Azure PostgreSQL Database, Elastic Beanstalk.
-* MLOps Tools: Docker, Kubernetes, CI/CD pipelines, MLflow, Airflow, Kubeflow
+* MLOps Tools: Docker, CI/CD pipelines, MLflow
 * Data Engineering: DBT (Data Build Tool),  ETL pipelines
 * Other: Git, Docker, Jupyter Notebooks.
   
@@ -50,10 +50,10 @@ Built a machine learning model using historical data to forecast Price for a Sto
      Develope Power BI DashBoard to show case the sales for different parameters
   - [MUSIC_STORE_ANALYSIS](https://www.linkedin.com/feed/update/urn:li:activity:7224744164356153344?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7224744164356153344%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B3HL1IXGqTcqdnUmfGNPTRQ%3D%3D)<br />
       Developed an interactive dashboard using Power BI to visualize and analyze market trends, comparing key Sales metrics across locations and genre.
-  - MLOps Pipeline for Predictive Modeling
+- MLOps Pipeline for Predictive Modeling
 Designed and implemented an end-to-end MLOps pipeline for a predictive modeling project. Used Docker and MLflow to automate model training, versioning, and deployment.
 
-  - Data Transformation with DBT for Analytics
+- Data Transformation with DBT for Analytics
 Developed scalable data models using DBT (Data Build Tool) to transform raw data into structured, analysis-ready datasets. Deployed the models in a production environment for analytics and reporting.
 
 ### 👨‍🎓 Certifications 
