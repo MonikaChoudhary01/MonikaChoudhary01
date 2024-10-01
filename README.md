@@ -64,5 +64,7 @@ Built a machine learning model using historical data to forecast Price for a Sto
 #### 💞️ I’m looking to collaborate on ...
 ** Open-source data science projects and AI-driven applications.**
 
+### 🎯 Let's Connect!
+I'm always eager to collaborate on exciting data science projects or just chat about the latest trends in AI and machine learning. Feel free to reach out!
 
 
