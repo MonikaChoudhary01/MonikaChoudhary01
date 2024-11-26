@@ -35,7 +35,7 @@
 
 ### 🧑‍🔧 Projects 
 
-- [Stone Price Prediction](https://github.com/MonikaChoudhary01/Stone_Price_Prediction)<br />
+- <img align="left" width="250" height="150" src="https://github.com/MonikaChoudhary01/MonikaChoudhary01/blob/main/stone.jfif> ** - [Stone Price Prediction](https://github.com/MonikaChoudhary01/Stone_Price_Prediction)<br />
 Built a machine learning model using historical data to forecast Price for a Stone. Applied ML techniques and fine-tuned the model for accuracy using hyperparameter tuning.
 - [Zomato Delivery time estimation:](https://github.com/MonikaChoudhary01/Zomato_delivery_time_estimation)<br />
   developed a machine learning model that estimates the delivery time for food orders based on various factors such as order timing, distance, festival season , type of city and traffic condition. The goal was to improve the accuracy and reliability of delivery time estimates.
